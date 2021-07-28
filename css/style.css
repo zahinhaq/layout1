@@ -1,0 +1,88 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+ header{
+   overflow: hidden;
+   text-align: center;
+}
+.logo{
+   color: white;
+   background-color: rgb(226, 102, 209);
+   height: 80px;
+   width: 20%;
+   float: left;
+}
+nav{
+    color:white;
+   background-color: rgb(172, 30, 108);
+   height: 80px;
+   width: 80%;
+   float: left;
+}
+.headbar{
+    color: rgb(255, 255, 255);
+    background-color: rgb(189, 115, 115);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.block{
+    overflow: hidden;
+    text-align: center;
+}
+.left{
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 95, 95);
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.center{
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 95, 95);
+    height: 500px;
+    width: 60%;
+    float: left;}
+.right{
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 95, 95);
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+    
+.top{
+    background-color: rgb(179, 88, 156);
+    height: 20%;
+}
+.middle{
+    background-color: rgb(206, 111, 56);
+    height: 60%;
+}
+.bottom{
+    background-color: rgb(223, 107, 62);
+    height: 20%;
+}
+.right1{
+   background-color: rgb(228, 112, 104);
+   float: left;
+   width: 50%;
+   height: 100%;
+}
+.left1{
+    background-color: rgb(209, 78, 61);
+   float: left;
+   width: 50%;
+   height: 100%;
+}
+footer {
+    overflow: hidden;
+}
+
+h1.footer {
+    height: 100px;
+    background: #f3134b;
+    color: white;
+    text-align: center;
+}
